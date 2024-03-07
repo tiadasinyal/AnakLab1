@@ -5,12 +5,16 @@
 #EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
+----------------------------------------------------
 
-
-#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies avatar",Avatar
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIGe3HhfYwp75LpH9m2MGO2yFqIMPltahdTfkCtWErrw9tS5NgaZ5Wnx1TEbuphmHDI84n2kd-5eMwMJVIL1DHN6Joq3cAApqyMIvfjdZ2G3izhqybEI7xKyikppIVYXUR5OLvq4yNseVgeLWZQ2JwBrakPqRcf2ovRf1h0NiSw2b771qlA/s982/avatar-netflix-logo_2.png" group-title="Netflix Avatar",Eps 1
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub1",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",NAME="English",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,LANGUAGE="en-US",URI="https://cc.2cdns.com/a1/a8/a1a8e83458b9a5b1b4fdf272d0da60a3/ind-20.vtt"
 #EXT-X-STREAM-INF:BANDWIDTH=678000,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1152x720,SUBTITLES="sub1"
 https://g.pollllop.com/_v11/91486417b8ad0d5b4257d9b1cc8150a31fcbcade24e95acbe1962017723401c8e83aed9a4be3a0daf1d136affdc1509cf97e44e06bd26fffec40d436928c88efe33f10ab51ef6c733c46bdabfd00cf54374e9b5c8c10d0a9ef4d8da915e9c05a09c957b9a5f0e3c9392212a8d61e6e6b731f77a0f1a2f38b28f7acf1f7b51bf29c232f752630d03b189242325a986cb6/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIGe3HhfYwp75LpH9m2MGO2yFqIMPltahdTfkCtWErrw9tS5NgaZ5Wnx1TEbuphmHDI84n2kd-5eMwMJVIL1DHN6Joq3cAApqyMIvfjdZ2G3izhqybEI7xKyikppIVYXUR5OLvq4yNseVgeLWZQ2JwBrakPqRcf2ovRf1h0NiSw2b771qlA/s982/avatar-netflix-logo_2.png" group-title="Netflix Avatar",Eps 2
+https://x.pollllop.com/_v11/d50325ec423d5760b393d99f99b0e96ebbee447d33b61f69e024a5269e663eb31fe74ed2541fd1a8a06eb0b518012f6b685460d666f943c527650bf5071e69cac24acbce46fd1314cb117f1a568d9c8f1be1c142976e04d143d313c2bbb0fce0b8f6b134d43414a52149b618d61614c850b9cd071a6c278013b1edf7c67d9bbeda5d5aaa8ba37d8167c07e6aecce6cb5/playlist.m3u8
+https://cc.2cdns.com/0b/ba/0bba710716a065c7a162e3060ee20435/ind-20.vtt
 ================================================ENTERTAIMENT===========================
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="mbc1.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC 1
