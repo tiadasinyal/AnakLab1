@@ -6,7 +6,10 @@
 #EXTM3U x-url-tvg="https://strimz.my.id/epg"
 #EXTM3U url-tvg="https://strimz.my.id/ep
 ----------------------------------------------------
+test motogp
 
+
+-------------
 1
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIGe3HhfYwp75LpH9m2MGO2yFqIMPltahdTfkCtWErrw9tS5NgaZ5Wnx1TEbuphmHDI84n2kd-5eMwMJVIL1DHN6Joq3cAApqyMIvfjdZ2G3izhqybEI7xKyikppIVYXUR5OLvq4yNseVgeLWZQ2JwBrakPqRcf2ovRf1h0NiSw2b771qlA/s982/avatar-netflix-logo_2.png" group-title="Netflix Avatar",Eps 1
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub1",CHARACTERISTICS="public.accessibility.transcribes-spoken-dialog",NAME="English",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,LANGUAGE="en-US",URI="https://cc.2cdns.com/a1/a8/a1a8e83458b9a5b1b4fdf272d0da60a3/ind-20.vtt"
